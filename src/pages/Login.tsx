@@ -45,7 +45,7 @@ export default function Login() {
     <div className="min-h-[calc(100vh-68px)] bg-zinc-950 text-zinc-100 flex items-center justify-center px-4">
       <div className="w-full max-w-md rounded-2xl border border-zinc-800 bg-zinc-900/60 p-6 shadow-sm">
         <h1 className="mb-1 text-center text-2xl font-semibold tracking-tight">
-          Masuk ke <span className="text-blue-400">Mini Store</span>
+          Masuk ke <span className="text-blue-400">Ninetyn Store</span>
         </h1>
         <p className="mb-6 text-center text-sm text-zinc-400">
           Gunakan email dan password akunmu.

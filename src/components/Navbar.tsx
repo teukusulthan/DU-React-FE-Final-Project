@@ -45,7 +45,7 @@ export default function Navbar() {
             to="/"
             className="text-lg font-semibold tracking-tight text-white"
           >
-            Mini <span className="text-blue-400">Store</span>
+            Ninetyn <span className="text-blue-400">Store</span>
           </Link>
 
           <div className="hidden items-center gap-2 md:flex">
