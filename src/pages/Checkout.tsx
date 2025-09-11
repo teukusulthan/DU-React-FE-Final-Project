@@ -1,4 +1,3 @@
-// src/pages/Checkout.tsx
 import { useContext, useEffect, useMemo, useState } from "react";
 import { Link, useLocation, useNavigate, useParams } from "react-router-dom";
 import { fetchProductById } from "../api/products";

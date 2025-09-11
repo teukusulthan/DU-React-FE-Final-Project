@@ -117,7 +117,7 @@ export default function ProductForm() {
               <label className="mb-1.5 block text-sm text-zinc-300">Nama</label>
               <input
                 className={inputClass}
-                placeholder="Contoh: Oli Gardan Premium"
+                placeholder="Contoh: Iphone 17 Pro"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
               />
